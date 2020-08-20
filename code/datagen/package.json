@@ -13,7 +13,7 @@
   "author": "Ethan Garofolo <ethan@suchsoftware.com>",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "faker": "^4.1.0",
     "uuid": "^3.3.2"
   }
