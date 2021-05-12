@@ -22,7 +22,7 @@
     "dotenv": "^8.0.0",
     "email-templates": "^4.0.1",
     "knex": "^0.19.1",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "nodemailer-pickup-transport": "^0.1.1",
     "pg": "^7.4.3",
     "pug": "^2.0.3",
