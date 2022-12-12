@@ -23,7 +23,7 @@
     "cookie-session": "^2.0.0-beta.3",
     "dotenv": "^8.0.0",
     "email-templates": "^4.0.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "knex": "^0.19.1",
     "nodemailer": "^4.6.7",
     "nodemailer-pickup-transport": "^0.1.1",
